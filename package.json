@@ -1,0 +1,19 @@
+{
+  "name": "portfoliowebsite",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aun600/portfolioWebsite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aun600/portfolioWebsite/issues"
+  },
+  "homepage": "https://github.com/Aun600/portfolioWebsite#readme",
+  "description": ""
+}
